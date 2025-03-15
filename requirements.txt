@@ -1,0 +1,5 @@
+boxsdk[jwt]
+python-dotenv
+pymongo
+pandas
+pymysql
