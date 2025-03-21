@@ -34,7 +34,7 @@ class BoxLoaders:
                 json.dump(document, json_file, default=str)
                 json_file.write('\n')
 
-        self.move_files_to_box("tmp_files/tmp_file.json", 'AQUI VA EL ID DE TU CARPETA orders_ecommerce_data') 
+        self.move_files_to_box("tmp_files/tmp_file.json", '3........1') 
         print("Data from mongo loaded to Box")
     
 
